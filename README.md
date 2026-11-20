@@ -69,12 +69,11 @@ lists the projects I have built, and makes it easy to get in touch. The whole si
 Personal-Portfolio-Website/
 ├── index.html          # the whole site (HTML, CSS and JavaScript)
 ├── images/             # photos and project screenshots
-│   ├── hero.jpg
+│   ├── about-photo.jpg
 │   └── profile.jpg
-├── assets/
+├── documents/
 │   └── Firstname-Lastname-CV.pdf
-├── docs/
-│   └── mockup.png      # image used in this README
+│   
 ├── README.md
 ├── LICENSE
 └── .gitignore
